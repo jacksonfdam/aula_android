@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TargetTrust</string>
+    <string name="action_settings">Sobre</string>
+    <string name="title_section1">Blog</string>
+    <string name="title_section2">Cursos</string>
+    <string name="title_section3">Oportunidades</string>
+    <string name="title_activity_blog_posts">BlogPosts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_post_view">PostViewActivity</string>
+    <string name="title_activity_lista_vagas">Cursos</string>
+
+</resources>
